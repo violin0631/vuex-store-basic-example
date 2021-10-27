@@ -1,4 +1,5 @@
 # vuex-store
+## overview
 This is simple example about how to use Vuex store. 
 1. Vuex is used to manage state
 2. Vuex store is Vuex container, which include state and action to interact with state
